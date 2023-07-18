@@ -1,0 +1,95 @@
+header h1 {
+  text-align: center;
+}
+.wrapper {
+  position: absolute;
+  right: 5%;
+  margin-top: 50px;
+  align-items: center;
+  justify-content: center;
+}
+h5 {
+  margin-bottom: 20px;
+}
+.alert {
+  margin-bottom: 10px;
+  width: 768px;
+}
+.card {
+  float: left;
+  margin-right: 30px;
+  margin-top: 10px;
+}
+.card-text {
+  align-items: center;
+  margin: 10px;
+}
+.card-text img {
+  width: 20px;
+  margin: 5px;
+}
+.card-text2 {
+  margin: 5px;
+}
+.card-text2 img {
+  width: 20px;
+  margin: 10px;
+  background: transparent;
+}
+a {
+  margin-top: 20px;
+  margin: 1px;
+}
+a .btn {
+  padding: 10px;
+}
+.card-img-top {
+  width: 367px;
+  height: 300px;
+  object-fit: cover;
+}
+.register {
+  width: 400px;
+  height: auto;
+
+  flex-wrap: wrap;
+  margin: 20px 20px;
+}
+.input .item {
+  width: 300px;
+  margin: 20px;
+  border: 2px solid gray;
+  border-radius: 4px;
+  height: 30px;
+  font-weight: normal;
+  padding: 2px;
+}
+.footer h3 {
+  font-size: 33px;
+  margin: 19px 40px;
+  color: black;
+}
+.box h2 {
+  font-size: 25px;
+}
+.box_inner {
+  width: 350px;
+  height: 120px;
+  border: 1px solid gray;
+  border-radius: 2px;
+  justify-content: center;
+  color: black;
+  margin-left: 20px;
+}
+.box_inner button {
+  background-color: rgb(238, 50, 50);
+  color: white;
+  border: none;
+  width: 70px;
+  height: 40px;
+  border-radius: 5px;
+  padding: 5px;
+}
+.box_item {
+  margin: 10px 10px;
+}
